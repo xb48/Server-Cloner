@@ -1,0 +1,28 @@
+ReporTix — Server Cloner
+========================
+Copyright (c) 2024 ReporTix. All Rights Reserved.
+
+Website : https://reportix.net
+
+TERMS OF USE
+------------
+This software is the intellectual property of ReporTix and is provided
+exclusively to registered users of the ReporTix platform.
+
+You MAY:
+  - Use this software for personal, non-commercial purposes.
+  - Run the software on your own devices.
+
+You MAY NOT:
+  - Redistribute, resell, or share this software with third parties.
+  - Modify, decompile, reverse engineer, or create derivative works.
+  - Remove or alter this copyright notice or any ReporTix branding.
+  - Use this software in violation of Discord's Terms of Service.
+
+DISCLAIMER
+----------
+This tool is provided "as is" without warranty of any kind.
+ReporTix is not responsible for any damages or account actions
+resulting from use of this software.
+
+By using this software you agree to these terms.
